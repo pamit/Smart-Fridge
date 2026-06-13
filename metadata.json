@@ -1,0 +1,6 @@
+{
+  "name": "Smart Fridge",
+  "description": "Smart Fridge & Culinary Assistant: AI-powered ingredient identification, personalized recipe suggestions, dietary filters, step-by-step cooking mode, and a shopping list integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
